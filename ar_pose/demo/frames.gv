@@ -1,0 +1,3 @@
+digraph G {
+"ar_marker" -> "camera"[label="Broadcaster: /ar_pose\nAverage rate: 13.265 Hz\nMost recent transform: 1366235024.975 \nBuffer length: 3.769 sec\n"];
+}
