@@ -27,7 +27,7 @@ $ roslaunch ar_pose avg_lab.launch
 ```
 $ roscd ar_pose
 $ rosbag play demo_single.bag --clock -d 3
-
+```
 ### Lab
 ```
 1) play bagfile demo_single.bag (step 4)
@@ -46,3 +46,4 @@ $ rosbag play demo_single.bag --clock -d 3
     6.1) take information about the position of the camera 
     6.2) write the position of the camera in a txt file
 7) Using the postion of the camera file (6.2) plot the data (you can use matlab or python)
+```
