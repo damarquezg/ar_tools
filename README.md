@@ -26,7 +26,7 @@ $ roslaunch ar_pose avg_lab.launch
 ### Step 4: Run (open a new shell)
 ```
 $ roscd ar_pose
-$ rosbag play demo_single.bag --clock -d 3
+$ rosbag play ar_data/demo_single.bag --clock -d 3
 ```
 ### Lab
 ```
