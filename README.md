@@ -2,7 +2,7 @@
 ar_tools
 
 ### Step 1: Go to your catkin workspace
-(http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
+(Creating a workspace for catkin : http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
 ```
 $ cd catkin_workspace
 $ cd src
