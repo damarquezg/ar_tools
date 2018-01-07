@@ -23,7 +23,7 @@ $ cd ar_data
 ```
 $ source devel/setup.bash
 $ roslaunch ar_pose avg_lab.launch
-(Rviz fixed frame: ar_marker)
+(Rviz fixed frame: world)
 ```
 ### Step 4: Run (open a new shell)
 ```
