@@ -2,7 +2,7 @@
 ar_tools
 
 ### Step 1: Go to your catkin workspace
-(Creating a workspace for catkin : http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
+Creating a workspace for catkin : http://wiki.ros.org/catkin/Tutorials/create_a_workspace
 ```
 $ cd catkin_workspace
 $ cd src
@@ -12,6 +12,7 @@ $ source devel/setup.bash
 $ catkin_make
 ```
 ### Step 2: Copy data
+Download data: https://github.com/ar-tools/ar_data/blob/master/demo_single.bag
 ```
 $ roscd ar_pose
 $ mkdir ar_data
