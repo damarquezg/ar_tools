@@ -51,8 +51,8 @@ $ rosbag play ar_data/demo_single.bag --clock -d 3
     5.1) what can you conclude?
     
 6) Write a simple subscriber and publisher to:
+Writing a Simple Publisher and Subscriber (C++):
 ```
-Writing a Simple Publisher and Subscriber (C++): 
 http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29
 ```
     6.1) take information about the camera position 
