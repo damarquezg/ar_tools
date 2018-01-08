@@ -56,6 +56,7 @@ $ rosbag play ar_data/demo_single.bag --clock -d 3
     6.2) write the camera position "trajectory" in a txt file
 ```
 Help: ROS - Writing a Simple Publisher and Subscriber (C++):
+
 http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29
 ```
     
