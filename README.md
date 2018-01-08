@@ -55,9 +55,14 @@ $ rosbag play ar_data/demo_single.bag --clock -d 3
     6.2) publish the information as a "Pose" message
     6.2) write the camera position "trajectory" in a txt file
 ```
-Help: ROS - Writing a Simple Publisher and Subscriber (C++):
+Help: 
+ROS - Writing a Simple Publisher and Subscriber (C++):
 
 http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29
+
+Writing a Simple Publisher and Subscriber (Python):
+
+http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29
 ```
     
 7) Using the camera position file (6.2), plot the data (you can use matlab or python)
